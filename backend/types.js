@@ -6,7 +6,7 @@ const createTodo = z.object({
 });
 
 const updateTodo = z.object({
-  id: z.string().min(1),
+ _id: z.string().min(1),
 });
 
 module.exports = { createTodo, updateTodo };

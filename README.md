@@ -1,4 +1,3 @@
-
 ## TODO APP
 
 This is a simple todo app.
@@ -13,4 +12,7 @@ It contains following features:
 
 # techstack 
 
-
+- React
+- Node.js
+- Express
+- MongoDB
